@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "lerna": "./node_modules/lerna/cli.js",
+    "lerna:add-to-all-packages": "npm run lerna add",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
