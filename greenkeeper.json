@@ -1,0 +1,12 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "package.json",
+        "packages/app/package.json",
+        "packages/internal-lib/package.json",
+        "packages/small-lib/package.json"
+      ]
+    }
+  }
+}
